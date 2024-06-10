@@ -1,0 +1,64 @@
+{
+    "data" : 
+       { "contents" : [
+            {
+                "userId": "1",
+                "name":"test1",
+                "address":"test1@test.com",
+                "phone": "010-1111-1111",
+                "isComplete": "true",
+                "isCustomer": "true"
+            },
+            {
+                "userId": "2",
+                "name":"test2",
+                "address":"test2@test.com",
+                "phone": "010-2222-2222",
+                "isComplete": "true",
+                "isCustomer": "false"
+            },
+            {
+                "userId": "3",
+                "name":"test3",
+                "address":"test3@test.com",
+                "phone": "010-3333-3333",
+                "isComplete": "false",
+                "isCustomer": "true"
+                
+            },
+            {
+                "userId": "4",
+                "name":"test4",
+                "address":"test4@test.com",
+                "phone": "010-4444-4444",
+                "isComplete": "false",
+                "isCustomer": "false"
+            },
+            {
+                "userId": "5",
+                "name":"test5",
+                "address":"test5@test.com",
+                "phone": "010-5555-5555",
+                "isComplete": "true",
+                "isCustomer": "false"
+            },
+            {
+                "userId": "6",
+                "name":"Jest6",
+                "address":"test6@test.cOM",
+                "phone": "010-6666-6666",
+                "isComplete": "false",
+                "isCustomer": "true"
+            },
+            {
+                "userId": "7",
+                "name":"Test7",
+                "address":"test6@TEst.com",
+                "phone": "010-7777-7777",
+                "isComplete": "true",
+                "isCustomer": "false"
+            }
+        ],
+        "totalElements" : "7"
+        }    
+}
